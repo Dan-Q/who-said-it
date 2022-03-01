@@ -2,6 +2,8 @@
 
 A quick game I threw together to entertain some friends. It presents quotes from a shared WhatsApp group and challenges players to remember/guess who originally said them.
 
+![Screenshot of a game in progress](https://user-images.githubusercontent.com/53293/156233526-4814d081-8980-4bbc-a36c-b97113dd535a.png)
+
 Our private instance is not available, but you can take a copy of this project and adapt it for your own use by following the instructions below.
 
 ## Setup
